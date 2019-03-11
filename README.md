@@ -1,2 +1,1 @@
-# bow
-Scala
+# Bow
